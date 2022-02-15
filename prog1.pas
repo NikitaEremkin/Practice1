@@ -1,4 +1,4 @@
 ﻿Program Prog1;
 begin
-  writeln('Hellow world');
+  writeln('Hellow world!');
 end.
